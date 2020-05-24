@@ -86,7 +86,7 @@ author:
   avatar           : "profile.png"
   bio              : "Cancer Biologist, Postdoc in the Levine Lab at MSKCC."
   location         : "NY, NY"
-  employer         :
+  employer         : "MSKCC"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Robert+L+Bowman"
   googlescholar    : "https://scholar.google.com/citations?user=VW5XhW0AAAAJ&hl=en"
   email            :  "bowmanr@mskcc.org"
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
