@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+theme                    : slate
 
 # SEO Related
 google_site_verification :
@@ -82,8 +83,8 @@ analytics:
 author:
   name             : "Bobby Bowman PhD"
   avatar           : "profile.png"
-  bio              : "Cancer Biologist, Postdoc in the Levine Lab at MSKCC, Avid Green Bay Packers Fan. Views are my own."
-  location         : "NYC, NY"
+  bio              : "Cancer Biologist, Postdoc in the Levine Lab at MSKCC."
+  location         : "NY, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Robert+L+Bowman"
   googlescholar    : "https://scholar.google.com/citations?user=VW5XhW0AAAAJ&hl=en"
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bowmanr_rl"
+  twitter          : "bowman_rl"
   vine             :
   weibo            :
   xing             :
