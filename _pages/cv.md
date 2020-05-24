@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Vanderbilt University 2010
+* Ph.D Cancer Biology, Gerstner Sloan Kettering Gradute Program 2016
 
-Work experience
+Positions and Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2007 - 2010 Undergraduate Researcher, Vanderbilt University, Nashville, TN
+* 2009 - 2010 Teaching Assistant, Vanderbit University, Nashville, TN
+* 2010 - 2016 Graduate Student, Gerstner Sloan Kettering Cancer Center, New York, NY
+* 2016 -  Research Scholar, MSKCC, New York, NY
+* 2016 - 2017 Teaching Assistant - Computational Biology, Gerstner Sloan Kettering Graduate Program, New York, NY
+* 2017 - 2019   Instructor - Quantitative Biology, Gerstner Sloan Kettering Graduate Program, New York, NY
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+Other Experience and Professional Memberships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010 - 2016 Graduate Student Member, New York Academy of Sciences
+* 2012  Attendee, Statistical Analysis of Genomics Data - Cold Spring Harbor Labs
+
+Honors
+======
+* 2008 - 2010 Summer Undergraduate Research Fellow, Vanderbilt University
+* 2010  Undergraduate Research Award, Vanderbilt University
+* 2010 - 2016 Grad into Med Initiative, HHMI
+* 2010  cum laude, Vanderbilt University
+* 2011  Geoffrey Beene Fellowship, Gerstner Sloan Kettering Cancer Center
+* 2012 - 2016 NRSA F31, National Cancer Institute
+* 2017 - 2021 Sohn Fellow, Damon Runyon Cancer Research Foundation 
+
 
 Publications
 ======
@@ -42,18 +46,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Contribution to Science
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
