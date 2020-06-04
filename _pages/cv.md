@@ -22,6 +22,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
   
 ### Education
+
 |   Years     | Degree                                                                    |
 |-------------|---------------------------------------------------------------------------|
 | 2006-2010   | B.A. Vanderbilt University                                                |
@@ -29,6 +30,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 
 ### Positions and Employment
+
 | Years       | Position                                                                  |
 |-------------|---------------------------------------------------------------------------|
 |2007 - 2010  | Undergraduate Researcher, Vanderbilt University, Nashville, TN |
@@ -40,6 +42,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 
 ### Other Experience and Professional Memberships
+
 |       Years     |                                                                           |
 |-----------------|---------------------------------------------------------------------------|
 | 2010 - 2016     | Graduate Student Member, New York Academy of Sciences                     |
@@ -47,6 +50,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 
 ### Fellowships and Honors
+
 |       Years     |                                                                      |
 |-----------------|----------------------------------------------------------------------|
 |2008 - 2010      | Summer Undergraduate Research Fellow, Vanderbilt University          |
@@ -96,6 +100,9 @@ https://doi.org/10.1016/j.stem.2017.08.011)
 
 ### Publications
 
-Full list of publications can be found here:
+Full list of publications can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/robert.bowman.1/bibliography/public/)
 
-https://www.ncbi.nlm.nih.gov/myncbi/robert.bowman.1/bibliography/public/
+
+
+
+
