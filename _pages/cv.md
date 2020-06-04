@@ -72,7 +72,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 ### Other Experience and Professional Memberships
 
-<table style="width:800px">
+<table style="width:800px;">
   <tr style="text-align:left">
     <th>Years</th>
     <th>Position</th>
@@ -91,38 +91,38 @@ My long-term goal is to lead an independent research group studying mechanisms d
 ### Fellowships and Honors
 <table style="width:800px">
   <tr style="text-align:left">
-    <th></tdh>
+    <th>Year</tdh>
     <th></th>
   </tr>
   <tr>
     <td>2008-2010</td>
     <td>Summer Undergraduate Research Fellow, Vanderbilt University</td>
   </tr>
-    <tr>
+  <tr>
     <td>2010</td>
     <td>Undergraduate Research Award, Vanderbilt University</td>
   </tr>
-    <tr>
+  <tr>
     <td>2010-2016</td>
     <td>Grad into Med Initiative, HHMI</td>
   </tr>
-    <tr>
+  <tr>
     <td>2010</td>
     <td>cum laude, Vanderbilt University</td>
   </tr>
-    <tr>
+  <tr>
     <td>2011</td>
     <td>Geoffrey Beene Fellowship, Gerstner Sloan Kettering Graduate Program</td>
   </tr>
-    <tr>
+  <tr>
     <td>2012-2016</td>
     <td>NRSA F31, National Cancer Institute</td>
   </tr>
-    <tr>
+  <tr>
     <td>2017-2020</td>
     <td>Sohn Fellow, Damon Runyon Cancer Research Foundation</td>
   </tr>
-    <tr>
+  <tr>
     <td>2020-Present</td>
     <td>K99/R00 Pathway to Independece Award, National Cancer Institute</td>
   </tr>
