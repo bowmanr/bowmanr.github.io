@@ -22,7 +22,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
   
 ### Education
-<table style="width:75%">
+<table style="width:800px">
   <tr style="text-align:left">
     <th>Years</th>
     <th>Degree</th>
@@ -39,7 +39,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 ### Positions and Employment
 
-<table style="width:75%">
+<table style="width:800px">
   <tr style="text-align:left">
     <th>Years</th>
     <th>Position</th>
@@ -72,7 +72,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 ### Other Experience and Professional Memberships
 
-<table style="width:75%">
+<table style="width:800px">
   <tr style="text-align:left">
     <th>Years</th>
     <th>Position</th>
@@ -89,7 +89,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 
 ### Fellowships and Honors
-<table style="width:75%">
+<table style="width:800px">
   <tr style="text-align:left">
     <th></tdh>
     <th></th>
