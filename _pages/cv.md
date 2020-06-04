@@ -22,46 +22,111 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
   
 ### Education
-
-|   Years     | Degree                                                                    |
-|-------------|---------------------------------------------------------------------------|
-| 2006-2010   | B.A. Vanderbilt University                                                |
-| 2010-2016   | Ph.D Cancer Biology, Gerstner Sloan Kettering Graduate Program            |
-
+<table style="width:100%">
+  <tr style="text-align:left">
+    <th>Years</th>
+    <th>Degree</th>
+  </tr>
+  <tr>
+    <td>2006-2010</td>
+    <td>B.A. Vanderbilt University</td>
+  </tr>
+  <tr>
+    <td>2010-2016</td>
+    <td>Ph.D Cancer Biology, Gerstner Sloan Kettering Graduate Program</td>
+  </tr>
+</table>
 
 ### Positions and Employment
 
-| Years       | Position                                                                  |
-|-------------|---------------------------------------------------------------------------|
-|2007 - 2010  | Undergraduate Researcher, Vanderbilt University, Nashville, TN |
-|2009 - 2010  | Teaching Assistant, Vanderbilt University, Nashville, TN |
-|2010 - 2016  | Graduate Student, Gerstner Sloan Kettering Cancer Center, New York, NY |
-|2016 -       | Research Scholar, MSKCC, New York, NY |
-|2016 - 2017  | Teaching Assistant - Computational Biology, Gerstner Sloan Kettering Graduate Program, New York, NY |
-|2017 - 2019  | Instructor - Quantitative Biology, Gerstner Sloan Kettering Graduate Program, New York, NY |
-
+<table style="width:100%">
+  <tr style="text-align:left">
+    <th>Years</th>
+    <th>Position</th>
+  </tr>
+  <tr>
+    <td>2007 - 2010</td>
+    <td>Undergraduate Researcher, Vanderbilt University, Nashville, TN</td>
+  </tr>
+  <tr>
+    <td>2009 - 2010</td>
+    <td>Teaching Assistant, Vanderbilt University, Nashville, TN</td>
+  </tr>
+  <tr>
+    <td>2010 - 2016</td>
+    <td>Graduate Student, Gerstner Sloan Kettering Cancer Center, New York, NY</td>
+  </tr>
+  <tr>
+    <td>2016 -</td>
+    <td>Research Scholar, MSKCC, New York, NY</td>
+  </tr>
+  <tr>
+    <td>2016 - 2017</td>
+    <td>Teaching Assistant - Computational Biology, Gerstner Sloan Kettering Graduate Program, New York, NY</td>
+  </tr>
+  <tr>
+    <td>2017 - 2019</td>
+    <td>Instructor - Quantitative Biology, Gerstner Sloan Kettering Graduate Program, New York, NY</td>
+  </tr>
+</table>
 
 ### Other Experience and Professional Memberships
 
-|       Years     |                                                                           |
-|-----------------|---------------------------------------------------------------------------|
-| 2010 - 2016     | Graduate Student Member, New York Academy of Sciences                     |
-| 2012            | Attendee, Statistical Analysis of Genomics Data - Cold Spring Harbor Labs |
+<table style="width:100%">
+  <tr style="text-align:left">
+    <th>Years</th>
+    <th>Position</th>
+  </tr>
+  <tr>
+    <td>2010 - 2016</td>
+    <td>Graduate Student Member, New York Academy of Sciences</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Attendee, Statistical Analysis of Genomics Data - Cold Spring Harbor Labs</td>
+  </tr>
+</table>
 
 
 ### Fellowships and Honors
-
-|       Years     |                                                                      |
-|-----------------|----------------------------------------------------------------------|
-|2008 - 2010      | Summer Undergraduate Research Fellow, Vanderbilt University          |
-|2010             | Undergraduate Research Award, Vanderbilt University                  |
-|2010 - 2016      | Grad into Med Initiative, HHMI                                       |
-|2010             | cum laude, Vanderbilt University                                     |
-|2011             | Geoffrey Beene Fellowship, Gerstner Sloan Kettering Cancer Center    |
-|2012 - 2016      | NRSA F31, National Cancer Institute                                  |
-|2017 - 2020      | Sohn Fellow, Damon Runyon Cancer Research Foundation                 |
-|2020 - Present   | K99/R00 Pathway to Independece Award, National Cancer Institute      |
-
+<table style="width:100%">
+  <tr style="text-align:left">
+    <th></tdh>
+    <th></th>
+  </tr>
+  <tr>
+    <td>2008-2010</td>
+    <td>Summer Undergraduate Research Fellow, Vanderbilt University</td>
+  </tr>
+    <tr>
+    <td>2010</td>
+    <td>Undergraduate Research Award, Vanderbilt University</td>
+  </tr>
+    <tr>
+    <td>2010-2016</td>
+    <td>Grad into Med Initiative, HHMI</td>
+  </tr>
+    <tr>
+    <td>2010</td>
+    <td>cum laude, Vanderbilt University</td>
+  </tr>
+    <tr>
+    <td>2011</td>
+    <td>Geoffrey Beene Fellowship, Gerstner Sloan Kettering Graduate Program</td>
+  </tr>
+    <tr>
+    <td>2012-2016</td>
+    <td>NRSA F31, National Cancer Institute</td>
+  </tr>
+    <tr>
+    <td>2017-2020</td>
+    <td>Sohn Fellow, Damon Runyon Cancer Research Foundation</td>
+  </tr>
+    <tr>
+    <td>2020-Present</td>
+    <td>K99/R00 Pathway to Independece Award, National Cancer Institute</td>
+  </tr>
+</table>
 
 ### Contributions to science
 <div style="text-align: justify; width:800px;" markdown="1">
