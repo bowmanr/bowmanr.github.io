@@ -75,7 +75,7 @@ My long-term goal is to lead an independent research group studying mechanisms d
 <table style="width:800px;">
   <tr style="text-align:left">
     <th>Years</th>
-    <th>Position</th>
+    <th></th>
   </tr>
   <tr>
     <td>2010 - 2016</td>
@@ -89,9 +89,10 @@ My long-term goal is to lead an independent research group studying mechanisms d
 
 
 ### Fellowships and Honors
+
 <table style="width:800px">
   <tr style="text-align:left">
-    <th>Year</tdh>
+    <th>Year</th>
     <th></th>
   </tr>
   <tr>
