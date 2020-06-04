@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Abstract
-======
-<div style="text-align: justify">
+### Abstract
+
+<div style="text-align: justify; width:800px;" markdown="1">
 
 I have a long-standing interest in genetic mouse models and their application to understanding human disease. My PhD studies in the Joyce Lab focused on uncovering the transcriptional regulation and developmental ontogeny of tumor-associated macrophages in brain tumors. To this end, I employed computational tools and a number of different genetic lineage tracing and tumor models with complementary analysis on patient-derived specimen. As I studied the functions of myeloid cells in disease, I became increasingly interested in the epigenetic mechanisms regulating their development, and how these processes can be co-opted in leukemia. Concurrent to my PhD studies on tumor-associated macrophages, the emerging field of clonal hematopoiesis was uncovering that the tumor microenvironment was not the genetically stable entity it was widely considered. My interest in myeloid development and malignancy, and the seminal work on clonal hematopoiesis in the Levine lab made for a perfect landing spot for my postdoctoral studies. 
 
@@ -21,41 +21,43 @@ My long-term goal is to lead an independent research group studying mechanisms d
  </div>
 
   
-Education
-======
-* B.A. Vanderbilt University 2010
-* Ph.D Cancer Biology, Gerstner Sloan Kettering Graduate Program 2016
+### Education
+|   Years     | Degree                                                                    |
+|-------------|---------------------------------------------------------------------------|
+| 2006-2010   | B.A. Vanderbilt University                                                |
+| 2010-2016   | Ph.D Cancer Biology, Gerstner Sloan Kettering Graduate Program            |
 
-Positions and Employment
-======
-* 2007 - 2010 Undergraduate Researcher, Vanderbilt University, Nashville, TN
-* 2009 - 2010 Teaching Assistant, Vanderbilt University, Nashville, TN
-* 2010 - 2016 Graduate Student, Gerstner Sloan Kettering Cancer Center, New York, NY
-* 2016 -  Research Scholar, MSKCC, New York, NY
-* 2016 - 2017 Teaching Assistant - Computational Biology, Gerstner Sloan Kettering Graduate Program, New York, NY
-* 2017 - 2019   Instructor - Quantitative Biology, Gerstner Sloan Kettering Graduate Program, New York, NY
+### Positions and Employment
+| Years       | Position                                                                  |
+|-------------|---------------------------------------------------------------------------|
+|2007 - 2010  | Undergraduate Researcher, Vanderbilt University, Nashville, TN |
+|2009 - 2010  | Teaching Assistant, Vanderbilt University, Nashville, TN |
+|2010 - 2016  | Graduate Student, Gerstner Sloan Kettering Cancer Center, New York, NY |
+|2016 -       | Research Scholar, MSKCC, New York, NY |
+|2016 - 2017  | Teaching Assistant - Computational Biology, Gerstner Sloan Kettering Graduate Program, New York, NY |
+|2017 - 2019  | Instructor - Quantitative Biology, Gerstner Sloan Kettering Graduate Program, New York, NY |
 
 
-Other Experience and Professional Memberships
-======
-* 2010 - 2016 Graduate Student Member, New York Academy of Sciences
-* 2012  Attendee, Statistical Analysis of Genomics Data - Cold Spring Harbor Labs
+### Other Experience and Professional Memberships
+|       Years     |                                                                           |
+|-----------------|---------------------------------------------------------------------------|
+| 2010 - 2016     | Graduate Student Member, New York Academy of Sciences                     |
+| 2012            | Attendee, Statistical Analysis of Genomics Data - Cold Spring Harbor Labs |
 
-Honors
-======
-* 2008 - 2010 Summer Undergraduate Research Fellow, Vanderbilt University
-* 2010  Undergraduate Research Award, Vanderbilt University
-* 2010 - 2016 Grad into Med Initiative, HHMI
-* 2010  cum laude, Vanderbilt University
-* 2011  Geoffrey Beene Fellowship, Gerstner Sloan Kettering Cancer Center
-* 2012 - 2016 NRSA F31, National Cancer Institute
-* 2017 - 2021 Sohn Fellow, Damon Runyon Cancer Research Foundation 
+### Fellowships and Honors
+|       Years     |                                                                      |
+|-----------------|----------------------------------------------------------------------|
+|2008 - 2010      | Summer Undergraduate Research Fellow, Vanderbilt University          |
+|2010             | Undergraduate Research Award, Vanderbilt University                  |
+|2010 - 2016      | Grad into Med Initiative, HHMI                                       |
+|2010             | cum laude, Vanderbilt University                                     |
+|2011             | Geoffrey Beene Fellowship, Gerstner Sloan Kettering Cancer Center    |
+|2012 - 2016      | NRSA F31, National Cancer Institute                                  |
+|2017 - 2020      | Sohn Fellow, Damon Runyon Cancer Research Foundation                 |
+|2020 - Present   | K99/R00 Pathway to Independece Award, National Cancer Institute      |
 
-Contributions to science
-======
-
-<div style="text-align: justify" markdown="1" width=550px>
-
+### Contributions to science
+<div style="text-align: justify; width:800px;" markdown="1">
 1.	**Lineage tracing and transcriptional profiling of tumor associated macrophage in brain malignancy:** My PhD studies focused on uncovering the developmental history of tumor-associated macrophages (TAM) in brain tumors. Developmental and functional diversity exists among tissue-resident macrophages, where unique transcriptional profiles bestow cells with tissue-specific functions. However, it is unknown whether the developmental origins of macrophages affect their roles in cancer. In one study we found that both bone marrow-derived macrophages (BMDMs) and microglia (MG) infiltrate brain tumors, possessing distinct transcriptional, epigenetic and activation states. These studies led to the identification of CD49D as a marker only expressed on BMDM, and absent on MG, allowing, for the first time, separate identification between MG and BMDM in mouse and human tumors. Follow-up studies (currently under review), revealed that MG and BMDM undergo distinct transcriptional responses to ionizing radiation (IR), and that blockade of CD49D synergized with IR to promote extended survival in mice.  In the second half of my PhD, I collaborated with Dr. Florian Klemm to perform immunophenotyping and transcriptional characterization of over 10 immune cell types from patient brain tumor samples at MSKCC. The computational methodologies I implemented in my PhD highlighted the value of not only data availability, but also data accessibility.  To further this cause, I collaborated with Dr. Massimo Squatrito at the Spanish National Cancer Research Center (CNIO) to develop Gliovis: a web portal focused on curating glioma patient genomics datasets and making them readily accessible to researchers. These studies comprised the primary focus on my PhD, where I was responsible for experimental design, execution, computational analysis, and writing of the first author manuscripts below.  Two other manuscripts are in the late stage of review and manuscript preparation.
     - **Bowman RL**, Klemm F, Akkari L, Pyonteck SM, Sevenich L, Quail DF, Dhara S, Simpson K, Gardner EE, Iacobuzio-Donahue CA, Brennan CW, Tabar V, Gutin PH, Joyce JA. Macrophage Ontogeny Underlies Differences in Tumor-Specific Education in Brain Malignancies. Cell Rep. 2016 Nov 22;17(9):2445-2459. PubMed PMID: 27840052; PubMed Central PMCID: PMC5450644.  [Available here]( https://doi.org/10.1016/j.celrep.2016.10.052)
     -	**Bowman RL**, Wang Q, Carro A, Verhaak RG, Squatrito M. GlioVis data portal for visualization and analysis of brain tumor expression datasets. Neuro Oncol. 2017 Jan;19(1):139-141. PubMed PMID: 28031383; PubMed Central PMCID: PMC5193031.  [Available here]( https://doi.org/10.1093/neuonc/now247)
@@ -84,13 +86,8 @@ https://doi.org/10.1016/j.stem.2017.08.011)
 
 </div>
 
-Publications
-======
+### Publications
+
 Full list of publications can be found here:
+
 https://www.ncbi.nlm.nih.gov/myncbi/robert.bowman.1/bibliography/public/
-
-
-
-
-
-
