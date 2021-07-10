@@ -6,6 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+plugins:
+  - jekyll-remote-theme
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Bowman RL PhD"
 title_separator          : "-"
@@ -85,9 +89,9 @@ author:
   name             : "Bobby Bowman PhD"
   avatar           : "profile1.png"
   bio              : "Cancer Biologist, Postdoc in the Levine Lab at MSKCC."
-  location         : "NY, NY"
+  location         : "New York, NY"
   employer         : "MSKCC"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Robert+L+Bowman"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/robert.bowman.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=VW5XhW0AAAAJ&hl=en"
   email            :  "bowmanr@mskcc.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -148,6 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
