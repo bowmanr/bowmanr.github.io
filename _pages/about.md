@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
  
- Opening page
+ Opening page, testing update
 
 
