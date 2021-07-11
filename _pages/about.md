@@ -12,6 +12,6 @@ redirect_from:
  
  
  
-![Twitter pic](./images/Twitter_Banner.png) 
+![Twitter pic](./images/Twitter_Banner2.png) 
 
 
