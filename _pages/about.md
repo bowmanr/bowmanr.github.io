@@ -1,15 +1,17 @@
 ---
-permalink: /
 title: "RL Bowman PhD"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
+excerpt: About me
+author_profile: yes
+redirect_from:
+- /about/
+- /about.html
 ---
  
  Opening page, testing update
  
-![](./images/Twitter Banner.png) 
+ 
+ 
+![Twitter pic](./images/Twitter_Banner.png) 
 
 
