@@ -1,17 +1,13 @@
 ---
 permalink: /resources/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+title: "Resources and Protocols"
+excerpt: "Collection of links to protocols and computational resources"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+## Computational Tools
+[Tutorial for single cell DNA-sequencing analyis](https://bowmanr.github.io/scDNA_myeloid/)
 
-Heading 1
-======
-
-Heading 2
-======
