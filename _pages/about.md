@@ -24,4 +24,5 @@ If the mouse models above are the functional machine of discovery, genomic profi
 1. Which mutations occur in the same cell?
 2. Is leukemic disease one monolithic group of cells, or a collection of many different mutant cells?
 3. Are specific mutations associated with different cell types?
+
 To address these questions, we have utilized single cell DNA sequencing (scDNA) to increase the resolution from a single patient sample to thousands of individual cells in that patients leukemia.  In each of these cells we can assess which mutations are present, as well as which proteins are expressed on the surface of the indicating where this cell lays in the blood developmental cascade (from stem cell to differentiated immune effector cells).  This powerful technology can be used to discover patterns of co-mutation synergy, and how specific mutations combine with specific cell types to lead to disease expansion.
