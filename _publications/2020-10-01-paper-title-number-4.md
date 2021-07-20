@@ -1,7 +1,7 @@
 ---
 title: "Single-cell mutation analysis of clonal evolution in myeloid malignancies"
 collection: publications
-permalink: /publication/2020-10-28-scDNA_myeloid
+permalink: /publication/2020-10-01-paper-title-number-4
 excerpt: 'In this manuscript we ...'
 date: 2020-10-01
 venue: 'Nature'
