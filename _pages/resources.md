@@ -5,7 +5,6 @@ excerpt: "Collection of links to protocols and computational resources"
 author_profile: true
 redirect_from: 
   - "/resources/"
-  - "/resources.html"
 ---
 
 ## Computational Tools
