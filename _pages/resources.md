@@ -4,8 +4,8 @@ title: "Resources and Protocols"
 excerpt: "Collection of links to protocols and computational resources"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/resources/"
+  - "/resources.html"
 ---
 
 ## Computational Tools
