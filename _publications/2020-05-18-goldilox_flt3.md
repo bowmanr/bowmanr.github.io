@@ -1,8 +1,8 @@
 ---
-title: "Single-cell mutation analysis of clonal evolution in myeloid malignancies"
+title: "Modeling clonal evolution and oncogenic dependency in vivo in the context of hematopoietic transformation"
 collection: publications
 permalink: /publication/2022-05-18-goldilox_flt3
-excerpt: 'In this manuscript we utilize single cell DNA-sequencing to evaluate clonal abundance and mutation order in patient samples ranging from clonal hematopoiesis to relapsed/refractory leukemia.  We combined scDNA-seq with oligonucleotide conjugated antibodies to resolve how genotype influences differentiation/immunophenotype.'
+excerpt: 'In this manuscript we develop tools for inducing up to three sequential mutations in mice for model the evolution from clonal hematopoiesis to acute myeloid leukemia. In order to investigate oncogene dependency, further develop tools to turn on a mutant oncogene, and subsequently revert that mutation.'
 date: 2022-05-18
 venue: 'Preprint-biorxiv'
 paperurl: ''
